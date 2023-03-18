@@ -3347,7 +3347,7 @@ a.video-play-icon-without-bip:hover{
 }
 
 .testimonial-single.gray-light-bg{
-    background: #56017f;
+    background: #333333;
 }
 
 .testimonial-single blockquote, .client-ratting h6{
@@ -3358,7 +3358,7 @@ a.video-play-icon-without-bip:hover{
     content: '';
     width: 0;
     height: 0;
-    border-top: 30px solid #56017f;
+    border-top: 30px solid #333333;
     border-right: 30px solid transparent;
     position: absolute;
     bottom: -30px;
@@ -3368,7 +3368,7 @@ a.video-play-icon-without-bip:hover{
 .owl-carousel .owl-item .client-img img{
     width: 60px;
     display: initial;
-    border: 3px solid #712696;
+    border: 3px solid #FD481A;
 }
 
 .client-ratting-list li:not(:last-child){
@@ -3382,7 +3382,7 @@ a.video-play-icon-without-bip:hover{
     color: #d3c7d8;
 }
 .client-info h5, .client-info p {
-    color: #712696;
+    color: #FD481A;
 }
 
 /*testimonial old*/
