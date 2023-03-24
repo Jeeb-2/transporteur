@@ -871,6 +871,10 @@ select.form-control.has-value{
     .hero-equal-height{
         min-height: auto !important;
     }
+
+    .pays{
+        width: 13%;
+    }
 }
 
 @media (min-width: 768px) and (max-width: 979px) {
