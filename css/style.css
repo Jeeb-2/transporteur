@@ -3081,7 +3081,7 @@ a.video-play-icon-without-bip:hover{
     z-index: 2;
 }
 .about-us-img .about-us-bg{
-    position: absolute;
+    /* position: absolute; */
     left: 0;
     bottom: 0;
     top:0;
