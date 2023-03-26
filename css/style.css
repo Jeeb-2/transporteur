@@ -4300,6 +4300,10 @@ a.pricing-value {
 a .single-promo-2 p {
     color: #707070;
 }
+
+.single-promo-2 h5{
+    color:  #fd471adf ;
+}
 .custom-shadow{
     box-shadow: 0 4px 30px 0 rgba(0, 0, 0, 0.12);
 }
